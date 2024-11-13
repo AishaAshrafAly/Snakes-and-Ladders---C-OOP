@@ -75,9 +75,3 @@ int main(){
 return 0;
 }
 
-///made by:    Team no. 22
-///    -Mustafa ayman-7015915
-///    -Ganna Aser Mansour-7003883
-///    -Aisha Ashraf Aly-7002549
-///    -Yasmine Hany Ahmed-7005638
-///    -Yousef Ahmed Ebrahim-703671
